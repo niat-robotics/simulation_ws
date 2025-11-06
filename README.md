@@ -120,6 +120,7 @@ rosdep install --from-paths src --ignore-src -r -y
 ### 1️⃣ Launch with Nxtwave World with Turtlebot3 Cam Model
 
 ```bash
+export TURTLEBOT3_MODEL = burger_cam
 ros2 launch tortoise_bot simulation.launch.py
 ```
 
