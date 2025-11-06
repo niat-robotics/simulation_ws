@@ -96,8 +96,11 @@ source /opt/ros/humble/setup.bash
 ```
 
 ## 🏗 Clone repository
+
 ```bash
 git clone https://github.com/niat-robotics/simulation_ws
+```
+
 ## 🏗 Build Instructions
 
 ```bash
